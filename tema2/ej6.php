@@ -3,6 +3,7 @@
     $count = 0;
     while($count<11){
         echo "<p>$tabla*$count = ".$tabla*$count."</p>";
+        $count = $count +1;
     }
     
 ?>

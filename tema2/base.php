@@ -26,6 +26,12 @@
 
         echo '<h3>EJERCICIO 7</h3>';
         include 'ej7.php';
+
+        echo '<h3>EJERCICIO 8</h3>';
+        include 'ej8.php';
+
+        echo '<h3>EJERCICIO 9</h3>';
+        include 'ej9.php';
     ?>
 </body>
 </html>
