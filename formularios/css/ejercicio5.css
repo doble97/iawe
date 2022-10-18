@@ -1,0 +1,30 @@
+.fondo-green{
+    background-color: green;
+}
+
+.fondo-red{
+    background-color: red;
+}
+
+.fondo-blue{
+    background-color: blue;
+}
+
+
+.letra-green{
+    color: green;
+}
+
+.letra-red{
+    color: red;
+}
+
+.letra-blue{
+    color: blue;
+}
+.cursiva{
+    font-style: italic;
+}
+.negrita {
+    font-weight: bold;
+}
