@@ -32,6 +32,16 @@
 
         echo '<h3>EJERCICIO 9</h3>';
         include 'ej9.php';
+
+        echo '<h3>EJERCICIO 10</h3>';
+        include 'ej10.php';
+
+        echo '<h3>EJERCICIO 11</h3>';
+        include 'ej11.php';
+
+        echo '<h3>EJERCICIO 12</h3>';
+        include 'ej12.php';
     ?>
 </body>
 </html>
+<!-- para mirar los errores mirar en /var/log/apache2/error.log -->
