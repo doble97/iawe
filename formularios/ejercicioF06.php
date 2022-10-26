@@ -27,6 +27,7 @@
             }else{
                 echo "<h2>Las palabras no riman</h2>";
             }
+            echo "</div>";
         }
     ?>
 </body>
